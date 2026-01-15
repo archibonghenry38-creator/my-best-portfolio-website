@@ -133,6 +133,9 @@ nav ul li a:hover::after{
     margin-bottom: 0;
 }
 
+.background-image: url("/image/ChatGPT Image Oct 10, 2025, 12_41_05 PM.png");
+
+
 .tab-titles{
     display: flex;
     margin: 20px 0 40px;
@@ -557,3 +560,4 @@ nav .fa-solid {
     padding: 15px;
   }
 }
+
